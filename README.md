@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @skaane05
-- 👀 I’m interested in Applecake & Dragonball
-- 🌱 I’m currently learning Everything
-- 💞️ I’m looking to collaborate on xvids
-- 📫 How to reach me ...
-- 😄 Pronouns: None
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Neuroscience, Quantum Chemistry, Math, Philosophy, ... (Everything)
+- 🌱 I’m currently learning Chemistry & Computational Neuroscience
+- 💞️ I’m looking to collaborate on Everywhere all at once
+- 📫 How to reach me if you know me, you know
 
 <!---
 skaane05/skaane05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
